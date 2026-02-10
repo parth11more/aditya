@@ -1,5 +1,3 @@
 welcome to git 
 welcome to git again
 welcome to git on 04-feb-2026
-my name is "parth" and my friend name is "aditya"
-we are study in zeal polytecnic pune
